@@ -1,7 +1,7 @@
 # NoteSimple
 
 SQLite skills
-save info
-delete info 
-update info
-serch info 
+#save info
+#delete info 
+#update info
+#search info 
